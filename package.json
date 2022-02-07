@@ -1,0 +1,27 @@
+{
+  "name": "use-page-meta",
+  "version": "0.0.1",
+  "description": "a hook use page meta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzebang/use-page-meta.git"
+  },
+  "keywords": [
+    "hook",
+    "usePageMeta"
+  ],
+  "author": "hanzebang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanzebang/use-page-meta/issues"
+  },
+  "homepage": "https://github.com/hanzebang/use-page-meta#readme",
+  "devDependencies": {
+    "react": "^17.0.0",
+    "@types/react": "^17.0.39"
+  }
+}
